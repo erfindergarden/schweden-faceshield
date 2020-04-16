@@ -1,9 +1,14 @@
-# Git repo für das Schweden Faceshield (Maker VS. Virus Hub München)
+# Git repo für das Münchener SchwedenFaceshield (Maker VS. Virus Hub München)
 
 * [Hauptinformationsseite für München: https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538](https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538)
 * [Sammelstellen: https://forums.erfindergarden.de/t/hubmuenchen-makervs-virus-sammelstellen/539](https://forums.erfindergarden.de/t/hubmuenchen-makervs-virus-sammelstellen/539)
 
-# Attribution: 
+# Münchener Schweden
+Single STL sind unter: Muenchener-Schwede-888/STL-Single
+[Cura-Stacked Anleitung](Muenchener-Schwede-888/Cura-Stacked/README.md)
+
+
+# Attribution:
 Der Schwede 888 / 3x8  (nach 3dverkstan)  by postiman on Thingiverse: [https://www.thingiverse.com/thing:4261985](https://www.thingiverse.com/thing:4261985)
 
 
